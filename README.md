@@ -12,7 +12,7 @@
 
 ## 🔗 Ссылка
 
- [Сайт портфолио](https://alexfedd.github.io/scroll-parallax-site/)
+ [Красивый скролл](https://alexfedd.github.io/scroll-parallax-site/)
 
 
 ## Картинки
