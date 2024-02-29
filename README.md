@@ -11,7 +11,7 @@
 
 
 ## 🔗 Ссылка
-
+ [Исходный код](https://github.com/alexfedd/alexfedd.github.io/tree/main/scroll-parallax-site)
  [Красивый скролл](https://alexfedd.github.io/scroll-parallax-site/)
 
 
